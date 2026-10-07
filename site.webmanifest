@@ -1,6 +1,6 @@
 {
-  "name": "VERNAM, encrypt any file in your browser",
-  "short_name": "VERNAM",
+  "name": "Krypto, encrypt any file in your browser",
+  "short_name": "Krypto",
   "description": "Free, open-source, fully client-side file encryption. Nothing is ever uploaded.",
   "id": "/",
   "start_url": "/",
